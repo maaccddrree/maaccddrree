@@ -13,7 +13,7 @@
 - 👀 I’m interested in technology, sports, programming, traveling.
 - 💞️ I’m looking to collaborate on building different types of websites on become a 
     master at HTML and CSS and everthing that helps make me a good develepor.
-- 🥅 2022 Goals: Learn more about python, c++, app development.
+- 🥅 2023 Goals: Learn more about python, c++, app development.
 - ⚡ Fun fact: I love to paint and hit te gym.
 - 😻 You can contact me @ my personal E-mail aalduays@yahoo.com
 
