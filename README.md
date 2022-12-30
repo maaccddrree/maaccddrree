@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmad - aka [Alduays][linkedin]] 👋 
+# Hi there, I'm Ahmad - aka [Alduays][linkedin] 👋 
 
 
 
