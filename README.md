@@ -6,6 +6,7 @@
 
 <br/>
 
+
 <!-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything  🤣 
 - 👯 I’m looking to collaborate with other developers.
@@ -46,7 +47,7 @@
 <br />
 <br />
 
----
+
 
 
 
@@ -54,12 +55,12 @@
 <br />
 
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+ BLOG-POST-LIST:START 
 - [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
 - 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://codestackr.com) -->
 
 ---
 
