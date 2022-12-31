@@ -2,7 +2,7 @@
 
 
 
-## I'm a Developer, sports lover and a fast learner!!
+## I'm a Developer, painter and sports lover !!!
 
 <br/>
 
