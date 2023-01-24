@@ -10,12 +10,12 @@
 <!-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything  🤣 
 - 👯 I’m looking to collaborate with other developers.
-- 👀 I’m interested in technology, sports, programming, traveling.
-- 💞️ I’m looking to collaborate on building different types of webs tn become a 
+- 👀 I’m interested in technology, sports, traveling.
+- 💞️ I’m looking to collaborate on building different types of webs to become a 
     master at JsavaScript and everthing that helps make me a good develepor.
-- 🥅 2023 Goals: Learn more about python, c++, app development.
-- ⚡ Fun fact: I love to paint and hit te gym.
-- 😻 You can contact me @ my personal E-mail aalduays@yahoo.com
+- 🥅 2023 Goals: Learn more about python, c++, app development in general.
+- ⚡ Fun fact: I love to paint and exrecise.
+- 😻 You can contact me @ my personal E-mail: aalduays@yahoo.com
 
 
 
