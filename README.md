@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning everything  🤣 
 - 👯 I’m looking to collaborate with other developers.
 - 👀 I’m interested in technology, sports, traveling.
-- 💞️ I’m looking to collaborate on building different types of webs to become a 
-    master at JsavaScript and everthing that helps make me a good develepor.
+- 💞️ I’m looking to collaborate on building different types of projecta to
+    master what I'm learning.
 - 🥅 2023 Goals: Learn more about python, c++, C#, Java and app development in general.
 - ⚡ Fun fact: I love to paint and exrecise.
 - 😻 You can contact me @ my personal E-mail: aalduays@yahoo.com
